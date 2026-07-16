@@ -1,8 +1,17 @@
+# Virtual environment
 venv/
+
+# Python cache
 __pycache__/
-*.pyc
+*.py[cod]
 
-reports/*.json
-reports/*.html
-
+# IDE settings
 .vscode/
+
+# Generated reports
+netsentinel_report_*.json
+reports/
+
+# OS files
+.DS_Store
+Thumbs.db
