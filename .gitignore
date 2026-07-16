@@ -1,17 +1,12 @@
-# Virtual environment
+# Virtual Environment
 venv/
 
-# Python cache
+# Python Cache
 __pycache__/
 *.py[cod]
 
-# IDE settings
+# VS Code
 .vscode/
 
-# Generated reports
+# Generated Reports
 netsentinel_report_*.json
-reports/
-
-# OS files
-.DS_Store
-Thumbs.db
